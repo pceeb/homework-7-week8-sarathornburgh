@@ -6,10 +6,10 @@ This is due before next discussion section.
 
 **Important:** You must include some input, so Daniel can run your script.  
 
-## Grade HW5: /10
+## Grade HW5: 10/10 Nice work!!! :thumbsup:
 
 | **Rubric** | **6pt** | **4pt** | **2pt** | **1pt** |
 | --- | ---| --- | --- | --- |
-| Effort | | | | |
-| Accuracy | | | | |
-| Timely Submission | | | | |
+| Effort | | | X | |
+| Accuracy | X | | | |
+| Timely Submission | | | X | |
